@@ -26,7 +26,7 @@ main:
   - title: "课程 Courses"
     url: /teaching/    
     
-  - title: "源代码 Cod"
+  - title: "源代码 Code"
     url: /portfolio/
         
   - title: "博客 Blog Posts"
