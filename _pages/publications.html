@@ -1,36 +1,30 @@
 ---
 layout: archive
-title: "Publications"
+title: "个人简介 / Biography"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Biography
 
-{% include base_path %}
+I am currently an Associate Professor and Master Supervisor at the School of Cybersecurity, Guangzhou University.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+I received my PhD degree in Engineering from the University of Chinese Academy of Sciences. I am an IEEE Senior Member, and a senior member of both China Computer Federation (CCF) and China Institute of Communications (CIC).
 
+My research interests mainly include data security and privacy protection, artificial intelligence security, and large model security. I have published more than 60 academic papers, including 8 CCF-A papers. I have been granted 27 national invention patents, and have led 6 national/provincial-level research projects. I have also participated in the development of 1 national standard and 5 industry standards. Related research achievements were selected into the "2024 Major Scientific and Technological Progress in Network and Data Security" by China Institute of Communications.
 
+In addition, I have led 3 provincial/ministerial-level educational reform projects, served as the chief editor of the textbook *Privacy Protection Technology Experiment Tutorial*, and received the First Prize and the Second Prize of Teaching Achievement Award from Guangdong Society of Degree and Graduate Education.
 
+I have also supervised student teams in innovation and entrepreneurship competitions and discipline competitions, with awards including the First Prize and Second Prize in the National Youth Artificial Intelligence Innovation and Entrepreneurship Conference, the National First Place in Tencent Hunyuan Data LLM Instruction Following Attack and Defense Competition, the National Fourth Place in China Artificial Intelligence Competition Large Model Attack Competition, and the National Sixth Place in Large Model Hallucination Challenge.
+
+---
+
+## 个人简介
+
+孙哲，博士，副教授、硕士生导师。中国科学院大学工学博士，IEEE Senior Member，中国计算机学会、中国通信学会高级会员。
+
+主要研究方向包括数据安全与隐私保护、人工智能安全、大模型安全。已发表学术论文60余篇，其中CCF A类学术论文8篇；授权国家发明专利27项；主持国家/省部级科研项目6项；主持/参与编制国家标准1项、行业标准5项，相关研究成果入选中国通信学会"2024年度网络和数据安全重大科技进展"。
+
+主持省部级教育改革项目3项，主编《隐私保护技术实验教程》1部，获广东省学位与研究生教育学会教学成果奖一等奖1项（排名第1）、二等奖1项（排名第2）。
+
+指导学生项目参加创新创业大赛，获全国青年人工智能创新创业大会创新组一等奖1项、二等奖1项；指导学生参加学科竞赛，获得腾讯混元数据LLM指令遵循攻防赛全国第1名、中国人工智能大赛大模型对抗赛A级（全国第4名）、大模型幻觉挑战赛B级（全国第6名）。
