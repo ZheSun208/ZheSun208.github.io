@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-工学博士，副教授，硕士生导师（PhD, Associate Professor）
+副教授，硕士生导师（PhD, Associate Professor）
+中国科学院大学博士，中国科学院院长奖获得者
 
 Looking for Students
 ======
