@@ -27,8 +27,9 @@ Research Interest
 
 Highlight
 ======
-<span style="color:#4a6cf7;">2025</span> - 4 papers are published/accepted by IEEE TKDE x 1, IEEE TNSM x 1, IEEE TMC x 1  
-<span style="color:#4a6cf7;">2024</span> - 5 papers are published/accepted by World Wide Web x 1, DCN x 1, IEEE HPCC x 2, IEEE UIC x 1  
+<span style="color:#4a6cf7;">2026</span> - 2 papers are published/accepted by IEEE ICDE x 1, IEEE TDSC x 1, IEEE TKDE x 1, IEEE TMC x 1
+<span style="color:#4a6cf7;">2025</span> - 2 papers are published/accepted by IEEE TDSC x 1, IEEE TNSM x 1 
+<span style="color:#4a6cf7;">2024</span> - 5 papers are published/accepted by World Wide Web Journal(高被引论文) x 1, DCN (高被引论文、热点论文) x 1, IEEE TNSM x 1, IEEE HPCC x 2, IEEE UIC x 1  
 <span style="color:#4a6cf7;">2023</span> - 1 papers are published/accepted by IEEE TDSC x 1
 <span style="color:#4a6cf7;">2022</span> - 2 papers are published/accepted by DCN x 1, IEEE ICC x 1
 <span style="color:#4a6cf7;">2022</span> - 获得中国人工智能学会第七届全国青年人工智能创新创业大会创新组二等奖 “密坊——数据价值共享服务引领者”（指导老师）  
