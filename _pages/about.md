@@ -35,7 +35,7 @@ Highlight
 <span style="color:#4a6cf7;">2021</span> - 2 papers are published/accepted by IEEE TNSE x 1, Computer Communications x 1  
 <span style="color:#4a6cf7;">2020</span> - 1 papers are published/accepted by Computers & Security x 1  
 <span style="color:#4a6cf7;">2019</span> - 2 papers are published/accepted by IEEE INFOCOM x 1, 通信学报 x 1  
-<span style="color:#4a6cf7;">2018</span> - 2 papers are published/accepted by Engineering x 1, 信息安全学报 x 1
+<span style="color:#4a6cf7;">2018</span> - 2 papers are published/accepted by Engineering x 1, 信息安全学报 x 1  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生黄尧炜等获得第六届中国人工智能大赛大模型对抗赛A级（指导老师）  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生马新宇等获得第六届中国人工智能大赛大模型幻觉挑战赛B级（指导老师）  
 <span style="color:#4a6cf7;">2022</span> - 祝贺研究生陶富强等获得中国人工智能学会第七届全国青年人工智能创新创业大会创新组二等奖（指导老师）  
