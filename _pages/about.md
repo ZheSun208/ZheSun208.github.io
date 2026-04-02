@@ -52,18 +52,11 @@ Research Grant
 <span style="color:#4a6cf7;">China Postdoctoral Science Foundation 2020</span> - Collaborative Protection Mechanisms for Multivariate Image Privacy Information  
 <span style="color:#4a6cf7;">Guangdong Foundation 2020</span> - Collaborative Analysis Mechanisms for Multi-party Privacy Data Based on Federated Learning  
 
-
-
-
-
-
 Award
 ======
-<span style="color:#4a6cf7;">2024年</span> - 入选“2024年度网络和数据安全重大科技进展“隐私保护下的大数据分析系统关键技术与应用”（排名第6）  
-<span style="color:#4a6cf7;">2024年</span> - 获得广东省学位与研究生教育学会优秀教学成果奖一等奖“基于教学实训靶场的‘数据隐私保护’课程建设初探”（排名第1）  
-<span style="color:#4a6cf7;">2023年</span> - 获得广东省学位与研究生教育学会优秀教学成果奖二等奖“隐私保护技术实验教程”（排名第2）  
-
-
+<span style="color:#4a6cf7;">2024年</span> - “隐私保护下的大数据分析系统关键技术与应用”入选“2024年度网络和数据安全重大科技进展”（排名第6）  
+<span style="color:#4a6cf7;">2024年</span> - “基于教学实训靶场的‘数据隐私保护’课程建设初探”获得广东省学位与研究生教育学会优秀教学成果奖一等奖（排名第1）  
+<span style="color:#4a6cf7;">2023年</span> - “隐私保护技术实验教程”获得广东省学位与研究生教育学会优秀教学成果奖二等奖（排名第2）  
 
 Activity
 ======
