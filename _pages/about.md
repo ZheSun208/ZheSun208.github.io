@@ -41,6 +41,7 @@ Highlight
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生黄尧炜等获得第六届中国人工智能大赛大模型对抗赛A级！  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生马新宇等获得第六届中国人工智能大赛大模型幻觉挑战赛B级！  
 <span style="color:#4a6cf7;">2024</span> - 祝贺研究生梁雨桐等获得IEEE PCDS国际会议Best Paper Award！  
+<span style="color:#4a6cf7;">2024</span> - 祝贺研究生张澳海等获得“字节跳动 安全范儿”高校挑战赛全国总决赛第10名！  
 <span style="color:#4a6cf7;">2023</span> - 祝贺研究生陶富强获得国家奖学金！  
 <span style="color:#4a6cf7;">2022</span> - 祝贺研究生陶富强等获得第七届全国青年人工智能创新创业大会创新组二等奖！  
 <span style="color:#4a6cf7;">2021</span> - 祝贺研究生万俊平获得国家奖学金！  
@@ -69,8 +70,8 @@ Activity
 ======
 <span style="color:#4a6cf7;">2026</span> - Local Chair of Springer CSS, Publicity Chair of BDPC  
 <span style="color:#4a6cf7;">2025</span> - Technical Program Committee of IEEE ISPA  
-<span style="color:#4a6cf7;">2024</span> - Session Chair of PCDS，Technical Program Committee of IEEE TrustCom, UIC, HPCC, ISPA, PCDS, CSE, EUC, DependSys  
-<span style="color:#4a6cf7;">2023</span> - Program Vice Chair of IEEE spaCCS, Session Chair of IEEE ICCSI, PCDS, Technical Program Committee of IEEE GLOBECOM, INFOCOM AiDTSP, ISPA, PCDS  
+<span style="color:#4a6cf7;">2024</span> - Session Chair of PCDS，Technical Program Committee of IEEE TrustCom, UIC, HPCC, ISPA, CSE, EUC, DependSys  
+<span style="color:#4a6cf7;">2023</span> - Program Vice Chair of IEEE spaCCS, Session Chair of IEEE ICCSI, PCDS, Technical Program Committee of IEEE GLOBECOM, INFOCOM AiDTSP, ISPA  
 <span style="color:#4a6cf7;">2022</span> - Technical Program Committee of IEEE TrustCom, GLOBECOM, PriComp, CIT  
 <span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
 <span style="color:#4a6cf7;">2019</span> - Session Chair of ICNC  
