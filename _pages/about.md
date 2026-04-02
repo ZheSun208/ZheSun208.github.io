@@ -52,7 +52,7 @@ Research Grant
 <span style="color:#4a6cf7;">Standard Project of State Administration for Market Regulation 2025</span> - Technical Requirements for Data Desensitization Control  
 <span style="color:#4a6cf7;">Guangdong Provincial Key Research Project for Regular Universities 2025</span> - Trustworthy Machine Learning Methods Based on Privacy Attack Mechanism Analysis  
 <span style="color:#4a6cf7;">Guangdong Science Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
-<span style="color:#4a6cf7;">Guangdong Teaching Reform Project 2024</span> - Innovation and Practice of Privacy Protection Course Teaching Mode Integrating AI Large Models  
+<span style="color:#4a6cf7;">Guangdong Undergraduate Education Reform Project 2024</span> - Innovation and Practice of Privacy Protection Course Teaching Mode Integrating AI Large Models  
 <span style="color:#4a6cf7;">Guangdong Graduate Education Reform Project 2024</span> - Educational Reform in Data Security Engineering: Cultivating Practical Skills and Innovation Literacy for Professional Master Students  
 <span style="color:#4a6cf7;">Industry-Academia Cooperation Project of Education Ministry 2022</span> - Teaching Exploration and Capability Improvement for Privacy Protection Oriented to Innovative Practice Ability  
 <span style="color:#4a6cf7;">NSFC 2021</span> - Privacy Correlation Leakage Models and Protection Mechanisms in Multimodal Learning  
