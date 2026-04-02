@@ -84,7 +84,7 @@ Session Chair, IEEE PCDS 2023, 2024
 Program Committee, IEEE INFOCOM AiDTSP 2023  
 Program Committee, IEEE GLOBECOM 2022, 2023  
 Program Vice-Chair, IEEE SpaCCS 2023  
-Session Chair, ICCSI 2023, SS10: Big Data Security and Privacy Protection, Xi’an, China  
+Session Chair, SS10: Big Data Security and Privacy Protection, Xi’an, China, ICCSI 2023  
 Reviewer, IEEE GLOBECOM 2021, 2022  
 Reviewer, IEEE TrustCom 2022  
 Program Committee, IEEE PriComp 2022  
@@ -96,7 +96,7 @@ Reviewer, IEEE DSC 2020
 Reviewer, NeurIPS-SpicyFL 2020  
 Reviewer, EAI ICDF2C 2020  
 Reviewer, EAI MobiQuitous 2019  
-Session Chair, IEEE ICNC 2019, Cloud Computing and Big Data Track, Hawaii, USA  
+Session Chair, Cloud Computing and Big Data Track, Hawaii, USA, IEEE ICNC 2019  
 Reviewer of IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Industrial Informatics, IEEE Transactions on Emerging Topics in Computing, ACM Transactions on Sensor Networks, Wireless Communications and Mobile Computing, Security and Communication Networks, CMC-Computers, Materials & Continua, Intelligent Automation & Soft Computing, Computers and Electrical Engineering, Concurrency and Computation: Practice and Experience, BMC Medical Informatics and Decision Making, Computer Systems Science and Engineering, 计算机研究与发展  
 中国中文信息学会大数据安全与隐私计算专委会委员  
 中国计算机学会计算机安全专委会委员  
