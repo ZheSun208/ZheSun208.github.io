@@ -69,11 +69,11 @@ Activity
 ======
 <span style="color:#4a6cf7;">2026</span> - Local Chair of Springer CSS, Publicity Chair of BDPC  
 <span style="color:#4a6cf7;">2025</span> - Technical Program Committee of IEEE ISPA  
-<span style="color:#4a6cf7;">2024</span> - Session Chair PCDS，Technical Program Committee of IEEE TrustCom, UIC, HPCC, ISPA, PCDS, CSE, EUC, DependSys  
+<span style="color:#4a6cf7;">2024</span> - Session Chair of PCDS，Technical Program Committee of IEEE TrustCom, UIC, HPCC, ISPA, PCDS, CSE, EUC, DependSys  
 <span style="color:#4a6cf7;">2023</span> - Program Vice Chair of IEEE spaCCS, Session Chair of IEEE ICCSI, PCDS, Technical Program Committee of IEEE GLOBECOM, INFOCOM AiDTSP, ISPA, PCDS  
 <span style="color:#4a6cf7;">2022</span> - Technical Program Committee of IEEE TrustCom, GLOBECOM, PriComp, CIT  
 <span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
-<span style="color:#4a6cf7;">2019</span> - Session Chair ICNC  
+<span style="color:#4a6cf7;">2019</span> - Session Chair of ICNC  
 <span style="color:#4a6cf7;">Reviewer</span> of IEEE TIFS, TDSC, TMC, TKDE, TWC, TCCN, TII, NeurIPS, INFOCOM, ...  
 <span style="color:#4a6cf7;">专委会</span> - 中国中文信息学会大数据安全与隐私计算专委会委员（since 2022）, 中国人工智能学会人工智能与安全专业委员会委员（since 2026）, 广东省计算机学会大数据专委会委员（since 2023）  
 <span style="color:#4a6cf7;">期刊</span> - 《网络与信息安全学报》青年编委（since 2023）, 《Blockchain》青年编委（since 2023）  
