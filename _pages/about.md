@@ -68,11 +68,11 @@ Activity
 ======
 <span style="color:#4a6cf7;">2025</span> - Technical Program Committee of IEEE ISPA  
 <span style="color:#4a6cf7;">2024</span> - Technical Program Committee of IEEE ISPA, PCDS, TrustCom, CSE, EUC, UIC, HPCC, DependSys  
+<span style="color:#4a6cf7;">2024</span> - Session Chair PCDS  
 <span style="color:#4a6cf7;">2023</span> - Technical Program Committee of IEEE ISPA, PCDS, INFOCOM AiDTSP, GLOBECOM, SpaCCS  
+<span style="color:#4a6cf7;">2023</span> - Session Chair PCDS, ICCSI  
 <span style="color:#4a6cf7;">2022</span> - Technical Program Committee of IEEE PCDS, TrustCom, GLOBECOM, PriComp, CIT  
 <span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
-<span style="color:#4a6cf7;">2024</span> - Session Chair PCDS  
-<span style="color:#4a6cf7;">2023</span> - Session Chair PCDS, ICCSI  
 <span style="color:#4a6cf7;">2019</span> - Session Chair ICNC  
 Reviewer of IEEE TIFS, TDSC, TMC, TKDE, TCCCN, TNSE, TII and NeurIPS, INFOCOM  
 专委会委员：中国中文信息学会大数据安全与隐私计算专委会，中国人工智能学会青年工作委员会，广东省计算机学会大数据专委会  
