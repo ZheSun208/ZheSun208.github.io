@@ -49,7 +49,7 @@ Research Grant
 ======
 <span style="color:#4a6cf7;">Guangdong Nature Foundation 2026</span> - Privacy Attack Mechanisms and Defense Methods in Multimodal Federated Learning  
 <span style="color:#4a6cf7;">Standard Project of State Administration for Market Regulation 2025</span> - Technical Requirements for Data Desensitization Control  
-<span style="color:#4a6cf7;">Guangdong Key Area Project 2025</span> - Trustworthy Machine Learning Methods Based on Privacy Attack Mechanism Analysis  
+<span style="color:#4a6cf7;">Guangdong Provincial Key Research Project for Regular Universities 2025</span> - Trustworthy Machine Learning Methods Based on Privacy Attack Mechanism Analysis  
 <span style="color:#4a6cf7;">Guangdong Nature Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
 <span style="color:#4a6cf7;">Guangdong Teaching Reform Project 2024</span> - Innovation and Practice of Privacy Protection Course Teaching Mode Integrating AI Large Models  
 <span style="color:#4a6cf7;">Guangdong Graduate Education Reform Project 2024</span> - Educational Reform in Data Security Engineering: Cultivating Practical Skills and Innovation Literacy for Professional Master Students  
