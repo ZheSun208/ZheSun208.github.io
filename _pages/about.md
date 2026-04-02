@@ -47,16 +47,16 @@ Highlight
 
 Research Grant
 ======
-<span style="color:#4a6cf7;">Guangdong Nature Foundation 2026</span> - Privacy Attack Mechanisms and Defense Methods in Multimodal Federated Learning  
+<span style="color:#4a6cf7;">Guangdong Science Foundation 2026</span> - Privacy Attack Mechanisms and Defense Methods in Multimodal Federated Learning  
 <span style="color:#4a6cf7;">Standard Project of State Administration for Market Regulation 2025</span> - Technical Requirements for Data Desensitization Control  
 <span style="color:#4a6cf7;">Guangdong Provincial Key Research Project for Regular Universities 2025</span> - Trustworthy Machine Learning Methods Based on Privacy Attack Mechanism Analysis  
-<span style="color:#4a6cf7;">Guangdong Nature Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
+<span style="color:#4a6cf7;">Guangdong Science Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
 <span style="color:#4a6cf7;">Guangdong Teaching Reform Project 2024</span> - Innovation and Practice of Privacy Protection Course Teaching Mode Integrating AI Large Models  
 <span style="color:#4a6cf7;">Guangdong Graduate Education Reform Project 2024</span> - Educational Reform in Data Security Engineering: Cultivating Practical Skills and Innovation Literacy for Professional Master Students  
 <span style="color:#4a6cf7;">Industry-Academia Cooperation Project of Education Ministry 2022</span> - Teaching Exploration and Capability Improvement for Privacy Protection Oriented to Innovative Practice Ability  
 <span style="color:#4a6cf7;">NSFC 2021</span> - Privacy Correlation Leakage Models and Protection Mechanisms in Multimodal Learning  
 <span style="color:#4a6cf7;">China Postdoctoral Science Foundation 2020</span> - Collaborative Protection Mechanisms for Multivariate Image Privacy Information  
-<span style="color:#4a6cf7;">Guangdong Nature Foundation 2020</span> - Collaborative Analysis Mechanisms for Multi-party Privacy Data Based on Federated Learning  
+<span style="color:#4a6cf7;">Guangdong Science Foundation 2020</span> - Collaborative Analysis Mechanisms for Multi-party Privacy Data Based on Federated Learning  
 
 Award
 ======
@@ -87,6 +87,6 @@ Course
 <span style="color:#4a6cf7;">方班演武堂【研究生】</span>- 2023秋, 2024春, 2024秋  
 <span style="color:#4a6cf7;">人工智能与机器学习【本科生】</span>- 2024春  
 <span style="color:#4a6cf7;">课程设计（程序设计）【本科生】</span>- 2023春, 2024春, 2025春, 2026春  
-<span style="color:#4a6cf7;">计算机系统基础【本科生】</span>- 2023秋，2024春，2024秋，2025秋  
+<span style="color:#4a6cf7;">计算机系统基础【本科生】</span>- 2023秋, 2024春, 2024秋, 2025秋  
 <span style="color:#4a6cf7;">Socket编程【本科生】</span>- 2024春  
 
