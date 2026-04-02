@@ -66,23 +66,14 @@ Award
 
 Activity
 ======
-<span style="color:#4a6cf7;">2023</span> - Technical Program Committee of IEEE ISPA 2023, 2024, 2025  
-Program Committee, IEEE PCDS 2022, 2023, 2024  
-Program Committee, IEEE TrustCom 2022, 2024  
-Program Committee, CSE 2024  
-Program Committee, EUC 2024  
-Program Committee, IEEE UIC 2024  
-Program Committee, IEEE HPCC 2024  
-Program Committee, IEEE DependSys 2024  
-Session Chair, IEEE PCDS 2023, 2024  
-Program Committee, IEEE INFOCOM AiDTSP 2023  
-Program Committee, IEEE GLOBECOM 2022, 2023  
-Program Vice-Chair, IEEE SpaCCS 2023  
-Program Committee, IEEE PriComp 2022  
-Program Committee, CIT 2022  
-Program Committee, EAI MobiMedia 2021  
-<span style="color:#4a6cf7;">2023</span> - Session Chair of SS10: Big Data Security and Privacy Protection, ICCSI, Xi’an, China  
-Session Chair of Cloud Computing and Big Data Track, IEEE ICNC 2019, Hawaii, USA
+<span style="color:#4a6cf7;">2025</span> - Technical Program Committee of IEEE ISPA  
+<span style="color:#4a6cf7;">2024</span> - Technical Program Committee of IEEE ISPA, PCDS, TrustCom, CSE, EUC, UIC, HPCC, DependSys  
+<span style="color:#4a6cf7;">2023</span> - Technical Program Committee of IEEE ISPA, PCDS, INFOCOM AiDTSP, GLOBECOM, SpaCCS  
+<span style="color:#4a6cf7;">2022</span> - Technical Program Committee of IEEE PCDS, TrustCom, GLOBECOM, PriComp, CIT  
+<span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
+<span style="color:#4a6cf7;">2024</span> - Session Chair PCDS  
+<span style="color:#4a6cf7;">2023</span> - Session Chair PCDS, ICCSI  
+<span style="color:#4a6cf7;">2019</span> - Session Chair ICNC  
 Reviewer of IEEE TIFS, TDSC, TMC, TKDE, TCCCN, TNSE, TII and NeurIPS, INFOCOM  
 专委会委员：中国中文信息学会大数据安全与隐私计算专委会，中国人工智能学会青年工作委员会，广东省计算机学会大数据专委会  
 青年编委：《网络与信息安全学报》，《Blockchain》青年编委  
