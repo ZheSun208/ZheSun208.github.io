@@ -22,7 +22,7 @@ I am currently looking for highly motivated postgraduate students to work on res
 
 Research Interest
 ======
- - 数据安全与隐私保护（Data Security And Privacy Protection）  
+ - 数据安全与隐私保护（Data Security and Privacy Protection）  
  - 人工智能安全（Artificial Intelligence Security）  
  - 大模型安全（Large Model Security）  
 
