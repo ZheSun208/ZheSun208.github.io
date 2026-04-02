@@ -73,10 +73,10 @@ Activity
 <span style="color:#4a6cf7;">2022</span> - Technical Program Committee of IEEE TrustCom, GLOBECOM, PriComp, CIT  
 <span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
 <span style="color:#4a6cf7;">2019</span> - Session Chair ICNC  
-Reviewer of IEEE TIFS, TDSC, TMC, TKDE, TWC, TCCCN, TII， NeurIPS, INFOCOM，...  
-中国中文信息学会大数据安全与隐私计算专委会委员（since 2022），中国人工智能学会人工智能与安全专业委员会委员（since 2026），广东省计算机学会大数据专委会委员（since 2023）  
-《网络与信息安全学报》青年编委（since 2023），《Blockchain》青年编委（since 2023）  
-IEEE Senior Member（since 2025）、中国计算机学会高级会员（since 2025）、中国通信学会高级会员（since 2024）  
+ - Reviewer of IEEE TIFS, TDSC, TMC, TKDE, TWC, TCCCN, TII, NeurIPS, INFOCOM,...  
+ - 中国中文信息学会大数据安全与隐私计算专委会委员（since 2022），中国人工智能学会人工智能与安全专业委员会委员（since 2026），广东省计算机学会大数据专委会委员（since 2023）  
+ - 《网络与信息安全学报》青年编委（since 2023），《Blockchain》青年编委（since 2023）  
+ - IEEE Senior Member（since 2025）、中国计算机学会高级会员（since 2025）、中国通信学会高级会员（since 2024）  
 
 Course
 ======
