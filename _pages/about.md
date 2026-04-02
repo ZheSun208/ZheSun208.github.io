@@ -80,13 +80,13 @@ Activity
 
 Course
 ======
-<span style="color:#4a6cf7;">数据安全与隐私保护【研究生】</span> - 2023春, 2024春, 2025春, 2026春  
-<span style="color:#4a6cf7;">数据隐私保护【本科生】</span> - 2024秋  
+<span style="color:#4a6cf7;">数据安全与隐私保护【研究生】</span>- 2023春, 2024春, 2025春, 2026春  
+<span style="color:#4a6cf7;">数据隐私保护【本科生】</span>- 2024秋  
 <span style="color:#4a6cf7;">数据分析中的隐私攻防技术探索与实践【本科生小班研讨课】</span> - 2024春, 2025春, 2025秋  
-<span style="color:#4a6cf7;">方班研讨厅【研究生】</span> - 2025春, 2025秋, 2026春
-<span style="color:#4a6cf7;">方班演武堂【研究生】</span> - 2023秋, 2024春, 2024秋
-<span style="color:#4a6cf7;">人工智能与机器学习【本科生】</span> - 2024春
-<span style="color:#4a6cf7;">课程设计（程序设计）【本科生】</span> - 2023春, 2024春, 2025春, 2026春  
-<span style="color:#4a6cf7;">计算机系统基础【本科生】</span> - 2023秋，2024春，2024秋，2025秋
-<span style="color:#4a6cf7;">Socket编程【本科生】</span> - 2024春
+<span style="color:#4a6cf7;">方班研讨厅【研究生】</span>- 2025春, 2025秋, 2026春  
+<span style="color:#4a6cf7;">方班演武堂【研究生】</span>- 2023秋, 2024春, 2024秋  
+<span style="color:#4a6cf7;">人工智能与机器学习【本科生】</span>- 2024春  
+<span style="color:#4a6cf7;">课程设计（程序设计）【本科生】</span>- 2023春, 2024春, 2025春, 2026春  
+<span style="color:#4a6cf7;">计算机系统基础【本科生】</span>- 2023秋，2024春，2024秋，2025秋  
+<span style="color:#4a6cf7;">Socket编程【本科生】</span>- 2024春  
 
