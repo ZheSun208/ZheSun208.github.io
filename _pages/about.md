@@ -27,7 +27,7 @@ Research Interest
 
 Highlight
 ======
-<span style="color:#4a6cf7;">2025</span> - 4 papers are published/accepted by IEEE TKDE x 1, IEEE TNSM x 1, IEEE TMC x 1, Applied Sciences x 1  
+<span style="color:#4a6cf7;">2025</span> - 4 papers are published/accepted by IEEE TKDE x 1, IEEE TNSM x 1, IEEE TMC x 1  
 <span style="color:#4a6cf7;">2024</span> - 13 papers are published/accepted by World Wide Web x 1, DCN x 1, IEEE HPCC x 2, Mathematics x 2, IEEE SWC x 2, IEEE DSC x 2, Kybernetes x 1, Electronics x 1, Blockchain x 1, IEEE UIC x 1  
 <span style="color:#4a6cf7;">2023</span> - 6 papers are published/accepted by IEEE TDSC x 1, IEEE PCDS x 1, ICCES x 3, AIBT x 1  
 <span style="color:#4a6cf7;">2022</span> - 8 papers are published/accepted by DCN x 1, Frontiers of Computer Science x 1, IEEE INFOCOM Workshop x 1, IEEE ICC x 1, IEEE SmartWorld x 1, Computational Intelligence and Neuroscience x 1, IEEE PriComp x 1, ICAIS x 1  
