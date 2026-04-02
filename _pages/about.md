@@ -21,77 +21,89 @@ I am currently looking for highly motivated postgraduate students to work on res
 
 Research Interest
 ======
-- Data Security And Privacy Protection
-- Artificial Intelligence Security
-- Large Model Security
-
-- 数据安全与隐私保护
-- 人工智能安全
-- 大模型安全
+- 数据安全与隐私保护（Data Security And Privacy Protection）
+- 人工智能安全（Artificial Intelligence Security）
+- 大模型安全（Large Model Security）
 
 Highlight
 ======
-[1] IEEE Senior Member，中国计算机学会高级会员、中国通信学会高级会员
-
-[2] 担任中文信息学会大数据安全与隐私计算专委会委员，中国计算机学会计算机安全专委会委员，中国人工智能学会青年工作委员会委员
-
-[3] 担任《网络与信息安全学报》青年编委、《Blockchian》青年编委、“纵横”网络空间安全创新论坛（军地联合）学术委员会青年委员。
-
-[4] 担任IEEE SpaCCS 2023的Program Vice-chair、IEEE ICNC 2019会议云计算与大数据分会的Session Chair（夏威夷，美国）、2023 International Conference on Cyber-physical Social Intelligence, Special Session 10: Big Data Security and Privacy Protection的Session Chair（西安，中国）、IEEE PCDS 2023/2024 Session Chair
-
-[5] 担任IEEE INFOCOM AidTSP 2023、IEEE HPCC 2024、IEEE Globecom 2022/2023、IEEE Trustcom 2022/2024、IEEE UIC 2024、IEEE ISPA 2023/2024/2025、EAI Mobimedia 2021、IEEE PriComp 2022、IEEE PCDS 2022/2023/2024、IEEE DependSys 2024、CIT 2022、CSE 2024、EUC 2024等国际会议TPC member
-
-[6] 担任NeurIPS-SpicyFL 2020（CCF-A类）、Globecom 2022/2021（CCF-C类）、Trustcom 2022（CCF-C类）、EAI ICDF2C 2020（CCF-C类）、EAI Mobiquitous 2019（CCF-C类）、EAI ICDF2C 2020（CCF-C类）、EAI Mobimedia 2021、ACM ICAIS 2020/2021、IEEE DSC 2020等国际会议的论文审稿人
-
-[7] 担任IEEE Transactions on Dependable and Secure Computing、IEEE Transactions on Network Science & Engineering、IEEE Transactions on Industrial Informatics、IEEE Transactions on Emerging Topics in Computing、ACM Transactions on Sensor Networks等期刊审稿、Wireless Communications and Mobile Computing、Security and Communication Networks、CMC-Computers, Materials & Continua、Intelligent Automation & Soft Computing、Elsevier Computers and Electrical Engineering、Concurrency and Computation: Practice and Experience、BMC Medical Informatics and Decision Making、Computer Systems Science and Engineering、计算机研究与发展等期刊审稿人
-
-[8]2022年-获得中国人工智能学会第七届全国青年人工智能创新创业大会创新组二等奖 “密坊——数据价值共享服务引领者”（第二指导老师）
-
-[9]2022年-获得中国中文信息学会第一届隐私计算与数据安全挑战赛优胜奖 “联邦学习中针对梯度泄露攻击的隐私保护效果评估”（第一指导老师）
-
-[10]2022年-获得中国中文信息学会第一届隐私计算与数据安全挑战赛优胜奖指导学生项目“基于本地差分隐私的联邦随机森林”（第二指导老师）
-
-[11]2021年-获得中国人工智能学会第六届全国青年人工智能创新创业大会创新组一等奖 “多方数据共享隐私保障系统”（指导老师）
-
+<span style="color:#4a6cf7;">2025</span> - 4 papers are published/accepted by IEEE TKDE x 1, IEEE TNSM x 1, IEEE TMC x 1, Applied Sciences x 1  
+<span style="color:#4a6cf7;">2024</span> - 13 papers are published/accepted by World Wide Web x 1, DCN x 1, IEEE HPCC x 2, Mathematics x 2, IEEE SWC x 2, IEEE DSC x 2, Kybernetes x 1, Electronics x 1, Blockchain x 1, IEEE UIC x 1  
+<span style="color:#4a6cf7;">2023</span> - 6 papers are published/accepted by IEEE TDSC x 1, IEEE PCDS x 1, ICCES x 3, AIBT x 1  
+<span style="color:#4a6cf7;">2022</span> - 8 papers are published/accepted by DCN x 1, Frontiers of Computer Science x 1, IEEE INFOCOM Workshop x 1, IEEE ICC x 1, IEEE SmartWorld x 1, Computational Intelligence and Neuroscience x 1, IEEE PriComp x 1, ICAIS x 1  
+<span style="color:#4a6cf7;">2021</span> - 7 papers are published/accepted by IEEE TNSE x 1, Computer Communications x 1, CMC x 1, Scientific Programming x 1, Wireless Communications and Mobile Computing x 1, Frontiers in Physics x 1, Security and Communication Networks x 1  
+<span style="color:#4a6cf7;">2020</span> - 3 papers are published/accepted by Computers & Security x 1, International Journal of Distributed Sensor Networks x 1, Cyberspace Innovation of Advanced Technologies x 1  
+<span style="color:#4a6cf7;">2019</span> - 3 papers are published/accepted by IEEE INFOCOM x 1, 通信学报 x 1, IEEE ICNC x 1  
+<span style="color:#4a6cf7;">2018</span> - 3 papers are published/accepted by Engineering x 1, 信息安全学报 x 1, IEEE ICAL x 1  
+<span style="color:#4a6cf7;">2022</span> - 获得中国人工智能学会第七届全国青年人工智能创新创业大会创新组二等奖 “密坊——数据价值共享服务引领者”（第二指导老师）  
+<span style="color:#4a6cf7;">2022</span> - 获得中国中文信息学会第一届隐私计算与数据安全挑战赛优胜奖 “联邦学习中针对梯度泄露攻击的隐私保护效果评估”（第一指导老师）  
+<span style="color:#4a6cf7;">2022</span> - 获得中国中文信息学会第一届隐私计算与数据安全挑战赛优胜奖指导学生项目“基于本地差分隐私的联邦随机森林”（第二指导老师）  
+<span style="color:#4a6cf7;">2021</span> - 获得中国人工智能学会第六届全国青年人工智能创新创业大会创新组一等奖 “多方数据共享隐私保障系统”（指导老师）  
 
 
 Research Grant
 ======
-[1] 2021年-国家自然科学基金-青年项目，“多模态学习中的隐私关联泄露模型与保护机制研究”
+<span style="color:#4a6cf7;">Guangdong Foundation 2026</span> - Privacy Attack Mechanisms and Defense Methods in Multimodal Federated Learning  
+<span style="color:#4a6cf7;">SAMR Standard Project 2025</span> - Technical Requirements for Data Desensitization Control  
+<span style="color:#4a6cf7;">Guangdong Key Area Project 2025</span> - Trustworthy Machine Learning Methods Based on Privacy Attack Mechanism Analysis  
+<span style="color:#4a6cf7;">Guangdong Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
+<span style="color:#4a6cf7;">Guangdong Teaching Reform Project 2024</span> - Innovation and Practice of Privacy Protection Course Teaching Mode Integrating AI Large Models  
+<span style="color:#4a6cf7;">Guangdong Graduate Education Reform Project 2024</span> - Educational Reform in Data Security Engineering: Cultivating Practical Skills and Innovation Literacy for Professional Master Students  
+<span style="color:#4a6cf7;">Ministry of Education Industry-Academia Cooperation Project 2022</span> - Teaching Exploration and Capability Improvement for Privacy Protection Oriented to Innovative Practice Ability  
+<span style="color:#4a6cf7;">NSFC 2021</span> - Privacy Correlation Leakage Models and Protection Mechanisms in Multimodal Learning  
+<span style="color:#4a6cf7;">China Postdoctoral Science Foundation 2020</span> - Collaborative Protection Mechanisms for Multivariate Image Privacy Information  
+<span style="color:#4a6cf7;">Guangdong Foundation 2020</span> - Collaborative Analysis Mechanisms for Multi-party Privacy Data Based on Federated Learning  
 
-[2] 2020年-中国博士后科学基金-面上项目，“多元图像隐私信息协同保护机制研究”
 
-[3] 2024年-广东省基础与应用基础研究基金-面上项目，“多方数据协同分析中的公平性保障机制”
 
-[4] 2026年-广东省基础与应用基础研究基金-面上项目，“多模态联邦学习中的隐私攻击机理与防护机制研究”
-
-[5] 2020-广东省基础与应用基础研究基金-青年项目，“基于联邦学习的多方隐私数据协同分析机制研究”
-
-[6] 2024年-广东省本科高校教学质量与教学改革工程-高等教育教学改革项目，“融合AI大模型的隐私保护课程教学模式创新与实践”
-
-[7] 2024年-广东省学位与研究生教育改革研究项目，“数据安全工程教育改革：工程硕士实践技能与创新素养培育”
-
-[8] 2022年-教育部产学合作协同育人项目，“面向创新实践能力的隐私保护教学探索与能力提升”
-
-[9] 2025年-国家市场监管总局市场监管行业标准制订计划项目，“数据脱敏控制技术要求”
-
-[10] 2025年-广东省普通高校重点领域项目-人工智能（智能机器人）重点领域项目，“基于隐私攻击机理分析的可信机器学习方法”
 
 
 
 Award
 ======
-[1] 入选“2024年度网络和数据安全重大科技进展“隐私保护下的大数据分析系统关键技术与应用”（排名第6）
-
-[2] 获得 2024年 广东省学位与研究生教育学会优秀教学成果奖一等奖“基于教学实训靶场的‘数据隐私保护’课程建设初探”（排名第1）
-
-[3] 获得 2023年 广东省学位与研究生教育学会优秀教学成果奖二等奖“隐私保护技术实验教程”（排名第2）
+<span style="color:#4a6cf7;">2024年</span> - 入选“2024年度网络和数据安全重大科技进展“隐私保护下的大数据分析系统关键技术与应用”（排名第6）  
+<span style="color:#4a6cf7;">2024年</span> - 获得广东省学位与研究生教育学会优秀教学成果奖一等奖“基于教学实训靶场的‘数据隐私保护’课程建设初探”（排名第1）  
+<span style="color:#4a6cf7;">2023年</span> - 获得广东省学位与研究生教育学会优秀教学成果奖二等奖“隐私保护技术实验教程”（排名第2）  
 
 
 
 Activity
 ======
-
+IEEE Senior Member  
+Senior Member of CCF  
+Senior Member of CIC  
+Program Committee, IEEE ISPA 2023, 2024, 2025  
+Program Committee, IEEE PCDS 2022, 2023, 2024  
+Program Committee, IEEE TrustCom 2022, 2024  
+Program Committee, CSE 2024  
+Program Committee, EUC 2024 
+Program Committee, IEEE UIC 2024 
+Program Committee, IEEE HPCC 2024  
+Program Committee, IEEE DependSys 2024  
+Session Chair, IEEE PCDS 2023, 2024  
+Program Committee, IEEE INFOCOM AiDTSP 2023  
+Program Committee, IEEE GLOBECOM 2022, 2023  
+Program Vice-Chair, IEEE SpaCCS 2023  
+Session Chair, ICCSI 2023, SS10: Big Data Security and Privacy Protection, Xi’an, China 
+Reviewer, IEEE GLOBECOM 2021, 2022  
+Reviewer, IEEE TrustCom 2022  
+Program Committee, IEEE PriComp 2022  
+Program Committee, CIT 2022  
+Reviewer, ACM ICAIS 2020, 2021  
+Program Committee, EAI MobiMedia 2021  
+Reviewer, EAI MobiMedia 2021  
+Reviewer, IEEE DSC 2020  
+Reviewer, NeurIPS-SpicyFL 2020  
+Reviewer, EAI ICDF2C 2020  
+Reviewer, EAI MobiQuitous 2019 
+Session Chair, IEEE ICNC 2019, Cloud Computing and Big Data Track, Hawaii, USA  
+Reviewer of IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Industrial Informatics, IEEE Transactions on Emerging Topics in Computing, ACM Transactions on Sensor Networks, Wireless Communications and Mobile Computing, Security and Communication Networks, CMC-Computers, Materials & Continua, Intelligent Automation & Soft Computing, Computers and Electrical Engineering, Concurrency and Computation: Practice and Experience, BMC Medical Informatics and Decision Making, Computer Systems Science and Engineering, 计算机研究与发展  
+中国中文信息学会大数据安全与隐私计算专委会委员  
+中国计算机学会计算机安全专委会委员  
+中国人工智能学会青年工作委员会委员  
+《网络与信息安全学报》青年编委  
+《Blockchain》青年编委  
+“纵横”网络空间安全创新论坛（军地联合）学术委员会青年委员  
 
 Course
 ======
