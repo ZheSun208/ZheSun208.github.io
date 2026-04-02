@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-孙哲，博士，副教授，硕士生导师（PhD, Associate Professor）
+工学博士，副教授，硕士生导师（PhD, Associate Professor）
 
 Looking for Students
 ======
@@ -74,7 +74,7 @@ Activity
 <span style="color:#4a6cf7;">2022</span> - Technical Program Committee of IEEE PCDS, TrustCom, GLOBECOM, PriComp, CIT  
 <span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
 <span style="color:#4a6cf7;">2019</span> - Session Chair ICNC  
-Reviewer of IEEE TIFS, TDSC, TMC, TKDE, TCCCN, TNSE, TII and NeurIPS, INFOCOM  
+Reviewer of IEEE TIFS, TDSC, TMC, TKDE, TWC, TCCCN, TII， NeurIPS, INFOCOM，...  
 专委会委员：中国中文信息学会大数据安全与隐私计算专委会，中国人工智能学会青年工作委员会，广东省计算机学会大数据专委会  
 青年编委：《网络与信息安全学报》，《Blockchain》青年编委  
 IEEE Senior Member、中国计算机学会高级会员、中国通信学会高级会员  
