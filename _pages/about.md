@@ -37,9 +37,9 @@ Highlight
 <span style="color:#4a6cf7;">2019</span> - 2 papers are published/accepted by IEEE INFOCOM x 1, 通信学报 x 1  
 <span style="color:#4a6cf7;">2018</span> - 2 papers are published/accepted by Engineering x 1, 信息安全学报 x 1  
 <span style="color:#4a6cf7;">2026</span> - 祝贺研究生张澳海等腾讯混元数据LLM指令遵循攻防赛全国第1名!  
+<span style="color:#4a6cf7;">2025</span> - 祝贺研究生邹昱夫等获得IEEE BDPC国际会议Excellent Oral Presentation Award!  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生黄尧炜等获得第六届中国人工智能大赛大模型对抗赛A级!  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生马新宇等获得第六届中国人工智能大赛大模型幻觉挑战赛B级!  
-<span style="color:#4a6cf7;">2024</span> - 祝贺研究生邹昱夫等获得IEEE BDPC国际会议Excellent Oral Presentation Award!  
 <span style="color:#4a6cf7;">2024</span> - 祝贺研究生梁雨桐等获得IEEE PCDS国际会议Best Paper Award!  
 <span style="color:#4a6cf7;">2023</span> - 祝贺研究生陶富强等获得IEEE ICBD国际会议Best Presentation Award!  
 <span style="color:#4a6cf7;">2022</span> - 祝贺研究生陶富强等获得第七届全国青年人工智能创新创业大会创新组二等奖！  
@@ -47,16 +47,16 @@ Highlight
 
 Research Grant
 ======
-<span style="color:#4a6cf7;">Guangdong Foundation 2026</span> - Privacy Attack Mechanisms and Defense Methods in Multimodal Federated Learning  
-<span style="color:#4a6cf7;">SAMR Standard Project 2025</span> - Technical Requirements for Data Desensitization Control  
+<span style="color:#4a6cf7;">Guangdong Nature Foundation 2026</span> - Privacy Attack Mechanisms and Defense Methods in Multimodal Federated Learning  
+<span style="color:#4a6cf7;">Standard Project of State Administration for Market Regulation 2025</span> - Technical Requirements for Data Desensitization Control  
 <span style="color:#4a6cf7;">Guangdong Key Area Project 2025</span> - Trustworthy Machine Learning Methods Based on Privacy Attack Mechanism Analysis  
-<span style="color:#4a6cf7;">Guangdong Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
+<span style="color:#4a6cf7;">Guangdong Nature Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
 <span style="color:#4a6cf7;">Guangdong Teaching Reform Project 2024</span> - Innovation and Practice of Privacy Protection Course Teaching Mode Integrating AI Large Models  
 <span style="color:#4a6cf7;">Guangdong Graduate Education Reform Project 2024</span> - Educational Reform in Data Security Engineering: Cultivating Practical Skills and Innovation Literacy for Professional Master Students  
-<span style="color:#4a6cf7;">Ministry of Education Industry-Academia Cooperation Project 2022</span> - Teaching Exploration and Capability Improvement for Privacy Protection Oriented to Innovative Practice Ability  
+<span style="color:#4a6cf7;">Industry-Academia Cooperation Project of Education Ministry 2022</span> - Teaching Exploration and Capability Improvement for Privacy Protection Oriented to Innovative Practice Ability  
 <span style="color:#4a6cf7;">NSFC 2021</span> - Privacy Correlation Leakage Models and Protection Mechanisms in Multimodal Learning  
 <span style="color:#4a6cf7;">China Postdoctoral Science Foundation 2020</span> - Collaborative Protection Mechanisms for Multivariate Image Privacy Information  
-<span style="color:#4a6cf7;">Guangdong Foundation 2020</span> - Collaborative Analysis Mechanisms for Multi-party Privacy Data Based on Federated Learning  
+<span style="color:#4a6cf7;">Guangdong Nature Foundation 2020</span> - Collaborative Analysis Mechanisms for Multi-party Privacy Data Based on Federated Learning  
 
 Award
 ======
