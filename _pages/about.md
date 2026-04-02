@@ -70,7 +70,7 @@ Activity
 ======
 <span style="color:#4a6cf7;">2026</span> - Local Chair of Springer CSS, Publicity Chair of BDPC  
 <span style="color:#4a6cf7;">2025</span> - Technical Program Committee of IEEE ISPA  
-<span style="color:#4a6cf7;">2024</span> - Session Chair of PCDS，Technical Program Committee of IEEE TrustCom, UIC, HPCC, ISPA, CSE, EUC, DependSys  
+<span style="color:#4a6cf7;">2024</span> - Technical Program Committee of IEEE TrustCom, UIC, HPCC, ISPA, CSE, EUC, DependSys  
 <span style="color:#4a6cf7;">2023</span> - Program Vice Chair of IEEE spaCCS, Session Chair of IEEE ICCSI, PCDS, Technical Program Committee of IEEE GLOBECOM, INFOCOM AiDTSP, ISPA  
 <span style="color:#4a6cf7;">2022</span> - Technical Program Committee of IEEE TrustCom, GLOBECOM, PriComp, CIT  
 <span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
