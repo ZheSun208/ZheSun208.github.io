@@ -76,8 +76,8 @@ Program Committee, IEEE ISPA 2023, 2024, 2025
 Program Committee, IEEE PCDS 2022, 2023, 2024  
 Program Committee, IEEE TrustCom 2022, 2024  
 Program Committee, CSE 2024  
-Program Committee, EUC 2024 
-Program Committee, IEEE UIC 2024 
+Program Committee, EUC 2024  
+Program Committee, IEEE UIC 2024  
 Program Committee, IEEE HPCC 2024  
 Program Committee, IEEE DependSys 2024  
 Session Chair, IEEE PCDS 2023, 2024  
