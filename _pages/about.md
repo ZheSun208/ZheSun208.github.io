@@ -24,7 +24,7 @@ Research Interest
 ======
  - 数据安全与隐私保护（Data Security and Privacy Protection）  
  - 人工智能安全（Artificial Intelligence Security）  
- - 大模型安全（Large Model Security）  
+ - 大模型安全（Large Language Model Security）  
 
 Highlight
 ======
