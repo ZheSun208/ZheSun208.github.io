@@ -36,9 +36,12 @@ Highlight
 <span style="color:#4a6cf7;">2020</span> - 1 papers are published/accepted by Computers & Security x 1  
 <span style="color:#4a6cf7;">2019</span> - 2 papers are published/accepted by IEEE INFOCOM x 1, 通信学报 x 1  
 <span style="color:#4a6cf7;">2018</span> - 2 papers are published/accepted by Engineering x 1, 信息安全学报 x 1  
+<span style="color:#4a6cf7;">2026</span> - 祝贺研究生张澳海等腾讯混元数据LLM指令遵循攻防赛全国第1名！
+<span style="color:#4a6cf7;">2024</span> - 祝贺研究生邹昱夫等获得IEEE BDPC国际会议Excellent Oral Presentation Award!  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生黄尧炜等获得第六届中国人工智能大赛大模型对抗赛A级!  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生马新宇等获得第六届中国人工智能大赛大模型幻觉挑战赛B级!  
 <span style="color:#4a6cf7;">2024</span> - 祝贺研究生梁雨桐等获得IEEE PCDS国际会议Best Paper Award!  
+<span style="color:#4a6cf7;">2023</span> - 祝贺研究生陶富强等获得IEEE ICBD国际会议Best Presentation Award!  
 <span style="color:#4a6cf7;">2022</span> - 祝贺研究生陶富强等获得第七届全国青年人工智能创新创业大会创新组二等奖！  
 <span style="color:#4a6cf7;">2021</span> - 祝贺研究生万俊平等获得第六届全国青年人工智能创新创业大会创新组一等奖！  
 
@@ -63,10 +66,7 @@ Award
 
 Activity
 ======
-IEEE Senior Member  
-Senior Member of CCF  
-Senior Member of CIC  
-Program Committee, IEEE ISPA 2023, 2024, 2025  
+<span style="color:#4a6cf7;">2023</span> - Technical Program Committee of IEEE ISPA 2023, 2024, 2025  
 Program Committee, IEEE PCDS 2022, 2023, 2024  
 Program Committee, IEEE TrustCom 2022, 2024  
 Program Committee, CSE 2024  
@@ -78,26 +78,15 @@ Session Chair, IEEE PCDS 2023, 2024
 Program Committee, IEEE INFOCOM AiDTSP 2023  
 Program Committee, IEEE GLOBECOM 2022, 2023  
 Program Vice-Chair, IEEE SpaCCS 2023  
-Session Chair, SS10: Big Data Security and Privacy Protection, Xi’an, China, ICCSI 2023  
-Reviewer, IEEE GLOBECOM 2021, 2022  
-Reviewer, IEEE TrustCom 2022  
 Program Committee, IEEE PriComp 2022  
 Program Committee, CIT 2022  
-Reviewer, ACM ICAIS 2020, 2021  
 Program Committee, EAI MobiMedia 2021  
-Reviewer, EAI MobiMedia 2021  
-Reviewer, IEEE DSC 2020  
-Reviewer, NeurIPS-SpicyFL 2020  
-Reviewer, EAI ICDF2C 2020  
-Reviewer, EAI MobiQuitous 2019  
-Session Chair, Cloud Computing and Big Data Track, Hawaii, USA, IEEE ICNC 2019  
-Reviewer of IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Network Science and Engineering, IEEE Transactions on Industrial Informatics, IEEE Transactions on Emerging Topics in Computing, ACM Transactions on Sensor Networks, Wireless Communications and Mobile Computing, Security and Communication Networks, CMC-Computers, Materials & Continua, Intelligent Automation & Soft Computing, Computers and Electrical Engineering, Concurrency and Computation: Practice and Experience, BMC Medical Informatics and Decision Making, Computer Systems Science and Engineering, 计算机研究与发展  
-中国中文信息学会大数据安全与隐私计算专委会委员  
-中国计算机学会计算机安全专委会委员  
-中国人工智能学会青年工作委员会委员  
-《网络与信息安全学报》青年编委  
-《Blockchain》青年编委  
-“纵横”网络空间安全创新论坛（军地联合）学术委员会青年委员  
+<span style="color:#4a6cf7;">2023</span> - Session Chair of SS10: Big Data Security and Privacy Protection, ICCSI, Xi’an, China  
+Session Chair of Cloud Computing and Big Data Track, IEEE ICNC 2019, Hawaii, USA
+Reviewer of IEEE TIFS, TDSC, TMC, TKDE, TCCCN, TNSE, TII and NeurIPS, INFOCOM  
+专委会委员：中国中文信息学会大数据安全与隐私计算专委会，中国人工智能学会青年工作委员会，广东省计算机学会大数据专委会  
+青年编委：《网络与信息安全学报》，《Blockchain》青年编委  
+IEEE Senior Member、中国计算机学会高级会员、中国通信学会高级会员  
 
 Course
 ======
