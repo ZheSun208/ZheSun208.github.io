@@ -74,11 +74,19 @@ Activity
 <span style="color:#4a6cf7;">2021</span> - Technical Program Committee of IEEE EAI MobiMedia  
 <span style="color:#4a6cf7;">2019</span> - Session Chair ICNC  
 <span style="color:#4a6cf7;">Reviewer of</span> of IEEE TIFS, TDSC, TMC, TKDE, TWC, TCCCN, TII, NeurIPS, INFOCOM, ...  
-<span style="color:#4a6cf7;">专委会</span> - 中国中文信息学会大数据安全与隐私计算专委会委员（since 2022），中国人工智能学会人工智能与安全专业委员会委员（since 2026），广东省计算机学会大数据专委会委员（since 2023）  
-<span style="color:#4a6cf7;">期刊</span> - 《网络与信息安全学报》青年编委（since 2023），《Blockchain》青年编委（since 2023）  
-<span style="color:#4a6cf7;">学会</span> - IEEE Senior Member（since 2025）、中国计算机学会高级会员（since 2025）、中国通信学会高级会员（since 2024）  
+<span style="color:#4a6cf7;">专委会</span> - 中国中文信息学会大数据安全与隐私计算专委会委员（since 2022）, 中国人工智能学会人工智能与安全专业委员会委员（since 2026）, 广东省计算机学会大数据专委会委员（since 2023）  
+<span style="color:#4a6cf7;">期刊</span> - 《网络与信息安全学报》青年编委（since 2023）, 《Blockchain》青年编委（since 2023）  
+<span style="color:#4a6cf7;">学会</span> - IEEE Senior Member（since 2025）, 中国计算机学会高级会员（since 2025）, 中国通信学会高级会员（since 2024）  
 
 Course
 ======
-
+<span style="color:#4a6cf7;">数据安全与隐私保护【研究生】</span> - 2023春, 2024春, 2025春, 2026春  
+<span style="color:#4a6cf7;">数据隐私保护【本科生】</span> - 2024秋  
+<span style="color:#4a6cf7;">数据分析中的隐私攻防技术探索与实践【本科生小班研讨课】</span> - 2024春, 2025春, 2025秋  
+<span style="color:#4a6cf7;">方班研讨厅【研究生】</span> - 2025春, 2025秋, 2026春
+<span style="color:#4a6cf7;">方班演武堂【研究生】</span> - 2023秋, 2024春, 2024秋
+<span style="color:#4a6cf7;">人工智能与机器学习【本科生】</span> - 2024春
+<span style="color:#4a6cf7;">课程设计（程序设计）【本科生】</span> - 2023春, 2024春, 2025春, 2026春  
+<span style="color:#4a6cf7;">计算机系统基础【本科生】</span> - 2023秋，2024春，2024秋，2025秋
+<span style="color:#4a6cf7;">Socket编程【本科生】</span> - 2024春
 
