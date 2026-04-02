@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "孙哲（广州大学）"
+title: "孙哲（广州大学 网络空间安全学院）"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-孙哲，博士、副教授、硕士生导师、网络空间安全学院，广州大学（PhD, Associate Professor）
+孙哲，博士，副教授，硕士生导师（PhD, Associate Professor）
 
 Looking for Students
 ======
@@ -28,18 +28,15 @@ Research Interest
 Highlight
 ======
 <span style="color:#4a6cf7;">2025</span> - 4 papers are published/accepted by IEEE TKDE x 1, IEEE TNSM x 1, IEEE TMC x 1  
-<span style="color:#4a6cf7;">2024</span> - 13 papers are published/accepted by World Wide Web x 1, DCN x 1, IEEE HPCC x 2, Mathematics x 2, IEEE SWC x 2, IEEE DSC x 2, Kybernetes x 1, Electronics x 1, Blockchain x 1, IEEE UIC x 1  
-<span style="color:#4a6cf7;">2023</span> - 6 papers are published/accepted by IEEE TDSC x 1, IEEE PCDS x 1, ICCES x 3, AIBT x 1  
-<span style="color:#4a6cf7;">2022</span> - 8 papers are published/accepted by DCN x 1, Frontiers of Computer Science x 1, IEEE INFOCOM Workshop x 1, IEEE ICC x 1, IEEE SmartWorld x 1, Computational Intelligence and Neuroscience x 1, IEEE PriComp x 1, ICAIS x 1  
-<span style="color:#4a6cf7;">2021</span> - 7 papers are published/accepted by IEEE TNSE x 1, Computer Communications x 1, CMC x 1, Scientific Programming x 1, Wireless Communications and Mobile Computing x 1, Frontiers in Physics x 1, Security and Communication Networks x 1  
-<span style="color:#4a6cf7;">2020</span> - 3 papers are published/accepted by Computers & Security x 1, International Journal of Distributed Sensor Networks x 1, Cyberspace Innovation of Advanced Technologies x 1  
-<span style="color:#4a6cf7;">2019</span> - 3 papers are published/accepted by IEEE INFOCOM x 1, 通信学报 x 1, IEEE ICNC x 1  
-<span style="color:#4a6cf7;">2018</span> - 3 papers are published/accepted by Engineering x 1, 信息安全学报 x 1, IEEE ICAL x 1  
-<span style="color:#4a6cf7;">2022</span> - 获得中国人工智能学会第七届全国青年人工智能创新创业大会创新组二等奖 “密坊——数据价值共享服务引领者”（第二指导老师）  
-<span style="color:#4a6cf7;">2022</span> - 获得中国中文信息学会第一届隐私计算与数据安全挑战赛优胜奖 “联邦学习中针对梯度泄露攻击的隐私保护效果评估”（第一指导老师）  
-<span style="color:#4a6cf7;">2022</span> - 获得中国中文信息学会第一届隐私计算与数据安全挑战赛优胜奖指导学生项目“基于本地差分隐私的联邦随机森林”（第二指导老师）  
+<span style="color:#4a6cf7;">2024</span> - 5 papers are published/accepted by World Wide Web x 1, DCN x 1, IEEE HPCC x 2, IEEE UIC x 1  
+<span style="color:#4a6cf7;">2023</span> - 1 papers are published/accepted by IEEE TDSC x 1
+<span style="color:#4a6cf7;">2022</span> - 2 papers are published/accepted by DCN x 1, IEEE ICC x 1
+<span style="color:#4a6cf7;">2022</span> - 获得中国人工智能学会第七届全国青年人工智能创新创业大会创新组二等奖 “密坊——数据价值共享服务引领者”（指导老师）  
+<span style="color:#4a6cf7;">2021</span> - 2 papers are published/accepted by IEEE TNSE x 1, Computer Communications x 1
 <span style="color:#4a6cf7;">2021</span> - 获得中国人工智能学会第六届全国青年人工智能创新创业大会创新组一等奖 “多方数据共享隐私保障系统”（指导老师）  
-
+<span style="color:#4a6cf7;">2020</span> - 1 papers are published/accepted by Computers & Security x 1
+<span style="color:#4a6cf7;">2019</span> - 2 papers are published/accepted by IEEE INFOCOM x 1, 通信学报 x 1
+<span style="color:#4a6cf7;">2018</span> - 2 papers are published/accepted by Engineering x 1, 信息安全学报 x 1
 
 Research Grant
 ======
