@@ -34,7 +34,7 @@ Highlight
 <span style="color:#4a6cf7;">2022</span> - 2 papers are published/accepted by DCN x 1, IEEE ICC x 1  
 <span style="color:#4a6cf7;">2022</span> - 祝贺获得中国人工智能学会第七届全国青年人工智能创新创业大会创新组二等奖 “密坊——数据价值共享服务引领者”  
 <span style="color:#4a6cf7;">2021</span> - 2 papers are published/accepted by IEEE TNSE x 1, Computer Communications x 1  
-<span style="color:#4a6cf7;">2021</span> - 祝贺万俊平、罗天杰、冯纪元、刘帅、林思昕、操志强6位同学的项目 “多方数据共享隐私保障系统”获得中国人工智能学会第六届全国青年人工智能创新创业大会创新组一等奖（指导老师）  
+<span style="color:#4a6cf7;">2021</span> - 祝贺万俊平、罗天杰、冯纪元、刘帅、林思昕、操志强6位同学的作品 “多方数据共享隐私保障系统”获得中国人工智能学会第六届全国青年人工智能创新创业大会创新组一等奖（指导老师）  
 <span style="color:#4a6cf7;">2020</span> - 1 papers are published/accepted by Computers & Security x 1  
 <span style="color:#4a6cf7;">2019</span> - 2 papers are published/accepted by IEEE INFOCOM x 1, 通信学报 x 1  
 <span style="color:#4a6cf7;">2018</span> - 2 papers are published/accepted by Engineering x 1, 信息安全学报 x 1  
