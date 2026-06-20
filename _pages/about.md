@@ -70,7 +70,7 @@ Awards and Honors
 
 Activity
 ======
-<span style="color:#4a6cf7;">2026</span> - Technical Program Committee Chair of IEEE AIPNS 2026, Local Chair of Springer CSS, Publicity Chair of BDPC  
+<span style="color:#4a6cf7;">2026</span> - Technical Program Committee Chair of IEEE AIPNS 2026, Local Chair of Springer CSS, Publicity Chair of IEEE BDPC  
 <span style="color:#4a6cf7;">2025</span> - Technical Program Committee of IEEE ISPA  
 <span style="color:#4a6cf7;">2024</span> - Technical Program Committee of IEEE TrustCom, UIC, HPCC, ISPA, CSE, EUC, DependSys  
 <span style="color:#4a6cf7;">2023</span> - Program Vice Chair of IEEE spaCCS, Session Chair of IEEE ICCSI, Technical Program Committee of IEEE GLOBECOM, INFOCOM AiDTSP, ISPA  
