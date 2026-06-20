@@ -38,6 +38,7 @@ Highlight
 <span style="color:#4a6cf7;">2019</span> - 2 papers are published by IEEE INFOCOM x 1, 通信学报 x 1  
 <span style="color:#4a6cf7;">2018</span> - 2 papers are published by Elsevier Engineering x 1, 信息安全学报 x 1  
 <span style="color:#4a6cf7;">2026</span> - 26级硕士毕业生：张奥海（字节）、黎尚哲（商汤）、梁雨桐（腾讯）、梁俊熙  
+<span style="color:#4a6cf7;">2026</span> - 祝贺研究生黎尚哲获评广州大学优秀毕业生！  
 <span style="color:#4a6cf7;">2026</span> - 祝贺研究生张澳海获得腾讯混元数据LLM指令遵循攻防赛全国第1名！  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生黄尧炜等获得第六届中国人工智能大赛大模型对抗赛A级！  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生马新宇等获得第六届中国人工智能大赛大模型幻觉挑战赛B级！  
