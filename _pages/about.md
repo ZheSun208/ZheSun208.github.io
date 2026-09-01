@@ -12,9 +12,9 @@ redirect_from:
 
 Looking for Students
 ======
-I am currently looking for highly motivated postgraduate students to work on research projects in our group. <span style="color:#d62728;">Candidates are expected to have solid backgrounds in mathematics, programming, and artificial intelligence or cybersecurity, as well as strong motivation towards academic excellence. Please email me if you are interested and have corresponding backgrounds.</span>
+I am currently looking for highly motivated postgraduate and undergraduate students to work on research projects in our group. <span style="color:#d62728;">Candidates are expected to have solid backgrounds in mathematics and programming, as well as strong motivation towards academic excellence. They should also possess good capabilities of self‑learning, independent thinking and communication, and persist in exploration when facing difficulties rather than giving up easily. Please email me if you are interested and have corresponding backgrounds.</span>
 
-欢迎有志于数据安全、隐私保护和人工智能安全研究的同学加入课题组。<span style="color:#d62728;">希望学生具有扎实的数学与编程基础，对科研有浓厚兴趣，具备较强的自主学习能力、独立思考能力和良好的沟通表达能力，面对困难能够坚持探索、不轻易放弃。</span>
+欢迎有志于数据安全、隐私保护和人工智能安全研究的研究生、本科生加入课题组。<span style="color:#d62728;">希望同学具备扎实的数学与编程基础，对科研抱有浓厚兴趣，拥有较强的自主学习能力、独立思考能力以及良好的沟通表达能力，遇到难题能够坚持探索、不轻言放弃。</span>
 
 每年招生名额：网络空间安全学术硕士 1–2 人；电子信息（人工智能、网络与信息安全、计算机技术、大数据技术与工程方向）专业硕士 2–3 人。
 
