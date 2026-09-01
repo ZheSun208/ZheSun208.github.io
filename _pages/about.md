@@ -57,16 +57,17 @@ Highlight
 
 Research Grant
 ======
-<span style="color:#4a6cf7;">Guangdong Science Foundation 2026</span> - Privacy Attack Mechanisms and Defense Methods in Multimodal Federated Learning  
-<span style="color:#4a6cf7;">Standard Project of State Administration for Market Regulation 2025</span> - Technical Requirements for Data Desensitization Control  
-<span style="color:#4a6cf7;">Guangdong Provincial Key Research Project for Regular Universities 2025</span> - Trustworthy Machine Learning Methods Based on Privacy Attack Mechanism Analysis  
-<span style="color:#4a6cf7;">Guangdong Science Foundation 2024</span> - Fairness Assurance Mechanisms in Multi-party Data Collaborative Analysis  
-<span style="color:#4a6cf7;">Guangdong Undergraduate Education Reform Project 2024</span> - Innovation and Practice of Privacy Protection Course Teaching Mode Integrating AI Large Models  
-<span style="color:#4a6cf7;">Guangdong Graduate Education Reform Project 2024</span> - Educational Reform in Data Security Engineering: Cultivating Practical Skills and Innovation Literacy for Professional Master Students  
-<span style="color:#4a6cf7;">Industry-Academia Cooperation Project of Education Ministry 2022</span> - Teaching Exploration and Capability Improvement for Privacy Protection Oriented to Innovative Practice Ability  
-<span style="color:#4a6cf7;">NSFC 2021</span> - Privacy Correlation Leakage Models and Protection Mechanisms in Multimodal Learning  
-<span style="color:#4a6cf7;">China Postdoctoral Science Foundation 2020</span> - Collaborative Protection Mechanisms for Multivariate Image Privacy Information  
-<span style="color:#4a6cf7;">Guangdong Science Foundation 2020</span> - Collaborative Analysis Mechanisms for Multi-party Privacy Data Based on Federated Learning  
+<span style="color:#4a6cf7;">国家自然科学基金-面上项目，“面向工业多模态数据跨域融合学习的隐私保护机制研究”（62672131）    
+<span style="color:#4a6cf7;">国家自然科学基金-青年项目，“多模态学习中的隐私关联泄露模型与保护机制研究”（62002077）  
+<span style="color:#4a6cf7;">广东省普通高校重点领域项目-人工智能（智能机器人）重点领域项目，“基于隐私攻击机理分析的可信机器学习方法”（2025ZDZX3019）   
+<span style="color:#4a6cf7;">中国博士后科学基金-面上项目，“多元图像隐私信息协同保护机制研究”（2020M682657）    
+<span style="color:#4a6cf7;">广东省基础与应用基础研究基金-面上项目，“多模态联邦学习中的隐私攻击机理与防护机制研究”（2026A1515011322）    
+<span style="color:#4a6cf7;">广东省基础与应用基础研究基金-面上项目，“多方数据协同分析中的公平性保障机制”（2024A1515011492）  
+<span style="color:#4a6cf7;">广东省基础与应用基础研究基金-青年项目，“基于联邦学习的多方隐私数据协同分析机制研究”（2020A1515110385）  
+<span style="color:#4a6cf7;">国家市场监管总局市场监管行业标准制订计划项目，“数据脱敏控制技术要求”（2024MR0010）
+<span style="color:#4a6cf7;">广东省本科高校教学质量与教学改革工程-高等教育教学改革项目，“融合AI大模型的隐私保护课程教学模式创新与实践”（粤教高函[2024]30号_913）
+<span style="color:#4a6cf7;">广东省学位与研究生教育改革研究项目，“数据安全工程教育改革：工程硕士实践技能与创新素养培育”（2024JGXM_148）
+<span style="color:#4a6cf7;">教育部产学合作协同育人项目，“面向创新实践能力的隐私保护教学探索与能力提升”（220602842191533）
 
 Awards and Honors
 ======
