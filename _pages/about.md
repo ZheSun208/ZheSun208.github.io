@@ -40,10 +40,13 @@ Highlight
 <span style="color:#4a6cf7;">2026</span> - 26级硕士毕业生：张澳海（字节）、黎尚哲（商汤）、梁雨桐（腾讯）、梁俊熙  
 <span style="color:#4a6cf7;">2026</span> - 祝贺本科生江李帆获得中国高校计算机大赛网络技术挑战赛华南赛区一等奖！  
 <span style="color:#4a6cf7;">2026</span> - 祝贺研究生黎尚哲获评广州大学优秀毕业生！  
+<span style="color:#4a6cf7;">2026</span> - 祝贺本科生卓妙华前往中科院信工所继续攻读硕士学位，本科生张瀚冲前往香港理工大学继续攻读硕士学位！    
 <span style="color:#4a6cf7;">2026</span> - 祝贺研究生张澳海获得腾讯混元数据LLM指令遵循攻防赛全国第1名！  
+<span style="color:#4a6cf7;">2025</span> - 祝贺本科生陈字龙前往中科院信工所继续攻读硕士学位！  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生邹昱夫获得IEEE BDPC 2025国际会议Excellent Oral Presentation Award！  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生黄尧炜等获得第六届中国人工智能大赛大模型对抗赛A级！  
 <span style="color:#4a6cf7;">2025</span> - 祝贺研究生马新宇等获得第六届中国人工智能大赛大模型幻觉挑战赛B级！  
+<span style="color:#4a6cf7;">2023</span> - 祝贺本科生李垚含前往华中科技大学继续攻读博士学位（直博生）！  
 <span style="color:#4a6cf7;">2024</span> - 祝贺研究生梁雨桐等获得IEEE PCDS 2024国际会议Best Paper Award！  
 <span style="color:#4a6cf7;">2024</span> - 祝贺研究生杨韩伊、张澳海、黎尚哲获得中国高校计算机大赛-人工智能创意赛华南赛区二等奖！  
 <span style="color:#4a6cf7;">2024</span> - 祝贺研究生张澳海等获得“字节跳动 安全范儿”高校挑战赛全国总决赛第10名！  
